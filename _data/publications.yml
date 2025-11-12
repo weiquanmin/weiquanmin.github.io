@@ -3,11 +3,11 @@ main:
     authors: <strong>Quanmin Wei</strong>, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu (*Corresponding authors)
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
-    # pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
     code: https://github.com/fengxueguiren/InfoCom
     page: https://weiquanmin.github.io/infocom
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_infocom.png
+    # pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     # notes: Oral Presentation
 
   - title: Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism
@@ -17,17 +17,12 @@ main:
     pdf: https://arxiv.org/pdf/2510.19618?
     code: https://github.com/jeffreychou777/GenComm
     page: https://jeffreychou777.github.io/GenComm/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/teaser_gencomm.png
     
   - title: Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue
     authors: Penglin Dai*, Hao Zhou, <strong>Quanmin Wei</strong>, Xiao Wu, Zhanbo Sun, Zhaofei Yu (*Corresponding authors)
     conference_short: TITS
     conference: IEEE Intelligent Transportation Systems Transactions
-    # pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
-    # code: https://github.com/fengxueguiren/CoPEFT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/framework_mgmp.png
     notes: Early Accept
     
@@ -37,7 +32,6 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
     code: https://github.com/fengxueguiren/CoPEFT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_copeft.png
     notes: Oral Presentation
 
@@ -48,7 +42,4 @@ main:
     conference_short: INS
     conference: Information Sciences
     pdf: https://www.sciencedirect.com/science/article/pii/S0020025522016073
-    # code: https://github.com/fengxueguiren/CoPEFT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/framework_aic-gnn.png
-    # notes: Oral Presentation
