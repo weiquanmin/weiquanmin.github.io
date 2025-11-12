@@ -24,6 +24,7 @@ main:
     conference_short: TITS
     conference: ‌IEEE Transactions on Intelligent Transportation Systems
     image: ./assets/img/framework_mgmp.png
+    pdf: https://ieeexplore.ieee.org/document/11224917
     notes: Early Accept
     
   - title: "CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning"
