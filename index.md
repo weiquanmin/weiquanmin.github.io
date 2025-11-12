@@ -25,3 +25,6 @@ Please feel free to send me an email if you are interested in discussing or work
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+<script language="Javascript"> var date = new Date(document.lastModified); document.write("Last modified: " + date.toLocaleDateString()); </script>
