@@ -1,5 +1,5 @@
 main:
-  - title: InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck
+  - title: "InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck"
     authors: <strong>Quanmin Wei</strong>, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu (*Corresponding authors)
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
@@ -26,7 +26,7 @@ main:
     image: ./assets/img/framework_mgmp.png
     notes: Early Accept
     
-  - title: CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning
+  - title: "CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning"
     authors: <strong>Quanmin Wei</strong>, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu (*Corresponding authors)
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
@@ -37,7 +37,7 @@ main:
 
 
     
-  - title: AIC-GNN: Adversarial Information Completion for Graph Neural Networks
+  - title: "AIC-GNN: Adversarial Information Completion for Graph Neural Networks"
     authors: <strong>Quanmin Wei</strong>, Jinyan Wang*, Xingcheng Fu, Jun Hu, Xianxian Li*
     conference_short: INS
     conference: Information Sciences
