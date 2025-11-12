@@ -22,7 +22,7 @@ main:
   - title: Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue
     authors: Penglin Dai*, Hao Zhou, <strong>Quanmin Wei</strong>, Xiao Wu, Zhanbo Sun, Zhaofei Yu (*Corresponding authors)
     conference_short: TITS
-    conference: IEEE Intelligent Transportation Systems Transactions
+    conference: ‌IEEE Transactions on Intelligent Transportation Systems
     image: ./assets/img/framework_mgmp.png
     notes: Early Accept
     
