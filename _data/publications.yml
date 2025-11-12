@@ -29,7 +29,7 @@ main:
     # pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
     # code: https://github.com/fengxueguiren/CoPEFT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_copeft.png
+    image: ./assets/img/framework_mgmp.png
     notes: Early Accept
     
   - title: CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning
@@ -51,5 +51,5 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0020025522016073
     # code: https://github.com/fengxueguiren/CoPEFT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_copeft.png
+    image: ./assets/img/framework_aic-gnn.png
     # notes: Oral Presentation
