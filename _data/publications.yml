@@ -11,7 +11,7 @@ main:
     # notes: Oral Presentation
 
   - title: Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism
-    authors: Junfei Zhou, Penglin Dai*, <strong>Quanmin Wei<\strong>, Bingyi Liu, Xiao Wu, Jianping Wang
+    authors: Junfei Zhou, Penglin Dai*, <strong>Quanmin Wei</strong>, Bingyi Liu, Xiao Wu, Jianping Wang
     conference_short: NeurIPS
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2510.19618?
