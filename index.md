@@ -28,7 +28,7 @@ Please feel free to send me an email if you are interested in discussing or work
 
 
 ## 🥰 My Visitors
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=bf6b6b&w=300&t=n&d=JIrP0oDijqcyjzAs2qFWVhwVnuMsUtGZHlit6UaMRPQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=R-SxHf7rcm4h4S0KDpxvicsTJmoYDL27nZLs_-v2Was'></script>
 
 
 
