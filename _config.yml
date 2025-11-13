@@ -45,7 +45,7 @@ google_analytics: G-KB5DZEKWRD
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 # remote_theme: yaoyao-liu/minimal-light
-remote_theme: minima
+remote_theme: jekyll/minima@1e8a445
 
 # The following files will be removed from the generated website.
 exclude:
