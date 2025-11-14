@@ -61,6 +61,13 @@
         <br>
         <br>
         <div class="social-icons">
+
+        {% if site.homepage %}
+        <a style="margin: 0 5px 0 0" href="{{ site.homepage }}">
+          <i class="fa-solid fa-house"></i>
+        </a>
+        {% endif %}   
+        
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <!-- <i class="ai ai-google-scholar" style="font-size:1.2rem"></i> -->
@@ -105,7 +112,21 @@
         </a>
         {% endif %}
 
-        
+        {% if site.wechat %}
+        <a style="margin: 0 5px 0 0" href="{{ site.wechat }}">
+          <i class="fa-brands fa-weixin"></i>
+        </a>
+        {% endif %}
+
+        {% if site.qq %}
+        <a style="margin: 0 5px 0 0" href="{{ site.qq }}">
+          <i class="fa-brands fa-qq"></i>
+        </a>
+        {% endif %}   
+
+
+
+          
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fa-brands fa-square-x-twitter"></i>
