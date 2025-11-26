@@ -6,6 +6,7 @@ main:
     code: https://github.com/fengxueguiren/InfoCom
     page: https://weiquanmin.github.io/infocom
     image: ./assets/img/teaser_infocom.png
+    pdf: ./assets/files/AAAI2026_InfoCom.pdf
     # pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # notes: Oral Presentation
@@ -20,7 +21,7 @@ main:
     image: ./assets/img/teaser_gencomm.png
     
   - title: Cooperative Perception of Multi-Agents under the Spatio-Temporal Drift Issue
-    authors: Penglin Dai*, Hao Zhou, <strong>Quanmin Wei</strong>, Xiao Wu, Zhanbo Sun, Zhaofei Yu (*Corresponding authors)
+    authors: Penglin Dai*, Hao Zhou, <strong>Quanmin Wei</strong>, Xiao Wu, Zhanbo Sun, Zhaofei Yu
     conference_short: TITS
     conference: ‌IEEE Transactions on Intelligent Transportation Systems
     image: ./assets/img/framework_mgmp.png
@@ -28,7 +29,7 @@ main:
     notes: Early Accept
     
   - title: "CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning"
-    authors: <strong>Quanmin Wei</strong>, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu (*Corresponding authors)
+    authors: <strong>Quanmin Wei</strong>, Penglin Dai*, Wei Li, Bingyi Liu, Xiao Wu
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34502/36657
