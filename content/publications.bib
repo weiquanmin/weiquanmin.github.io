@@ -26,6 +26,28 @@
 % a visitor exports an entry from the website.
 % ============================================================================
 
+
+@article{wei2026paracomm,
+  title={Rethinking What to Communicate for Collaborative Perception: A Parameter-Centric Perspective},
+  author={Wei, Quanmin and Dai, Penglin and Li, Wei and Wu, Xiao and Chen, Chao and Yu, Zhaofei},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2026},
+
+  url={#},
+  corresponding={2},
+  selected={true},
+  shortvenue={IEEE TMC},
+  badges={Early Access},
+  ccf={CCF-A},
+  sci={1},
+  jcr={Q1},
+  impact={8.8},
+  impactyear={2026},
+  project={https://weiquanmin.github.io/paracomm},
+  abstract={Collaborative perception enhances autonomous driving by allowing agents to share complementary perceptual information. Existing methods typically adopt a Feature-Centric Communication (FCC) perspective that focuses on selecting or compressing feature representations for transmission. A shared representational basis offers an opportunity to reduce online communication by encoding observations through compact parameters. Building on this idea, we introduce a Parameter-Centric Communication (PCC) perspective, in which these parameters specify the composition of representational bases retained locally at each agent. We instantiate PCC as \textbf{ParaComm}, a learnable dictionary-driven framework for communication-efficient collaborative perception. In ParaComm, continuous parameters learned from BEV features specify how shared dictionary atoms are combined to form the current collaborative representation. To reduce transmission volume, ParaComm progressively sparsifies these parameters across spatial locations and dictionary atoms and further compacts them through parameter sharing and low-bit quantization. The receiver then explicitly reconstructs collaborative features using the transmitted parameters and its local copy of the shared dictionary. Extensive experiments on OPV2V, V2XSet, and DAIR-V2X validate the effectiveness and generality of ParaComm. On OPV2V, for example, it reduces the communication volume from 34.375 MB to 99.688 KB, corresponding to over 350$\times$ compression, while still improving detection accuracy relative to standard full-feature collaboration.},
+  image={images/framework_ParaComm.png},
+}
+
 @article{wei2026cotrans,
   title={CoTrans: A Unified Framework for Enhancing Sparse-Agent Collaborative Perception},
   author={Wei, Quanmin and Dai, Penglin and Li, Ke and Li, Wei and Wu, Xiao and Yu, Zhaofei},
