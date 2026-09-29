@@ -21,6 +21,7 @@
   "news": {
     "title": "🔥 News",
     "items": [
+      { "date": "2026.09", "text": "One paper has been accepted at IEEE Transactions on Mobile Computing (TMC)." },
       { "date": "2026.04", "text": "One paper has been accepted at IEEE Transactions on Multimedia (TMM)." },
       { "date": "2025.11", "text": "One paper has been accepted at AAAI 2026." },
       { "date": "2024.10", "text": "One paper has been accepted for **oral presentation** at AAAI 2025." }
@@ -62,7 +63,9 @@
     "title": "🤝 Academic Services",
     "conferenceHeading": "Conference Reviewer",
     "conferences": [
+      { "name": "ICLR", "years": ["2027"], "fullName": "International Conference on Learning Representations" },
       { "name": "AAAI", "years": ["2027", "2026"], "fullName": "AAAI Conference on Artificial Intelligence" },
+      { "name": "IEEE HPCC", "years": ["2026"], "fullName": "IEEE International Conference on High Performance Computing and Communications" },
       { "name": "ACM MM", "years": ["2024"], "fullName": "ACM Multimedia" }
     ],
     "other": [
@@ -76,7 +79,10 @@
           { "name": "Journal of King Saud University Computer and Information Sciences", "abbr": "JKSU-CIS" },
           { "name": "Discover Artificial Intelligence" },
           { "name": "International Journal of Data Science and Analytics", "abbr": "IJDSA" },
-          { "name": "Cluster Computing" }
+          { "name": "Cluster Computing" },
+          { "name": "Discover Applied Sciences" },
+          { "name": "The Visual Computer" },
+          { "name": "Scientific Reports" }
         ]
       }
     ]
